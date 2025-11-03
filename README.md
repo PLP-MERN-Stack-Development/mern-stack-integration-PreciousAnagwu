@@ -172,13 +172,10 @@ npm run dev
 
 ---
 
-## Future Improvements
+## Screenshots
 
-* Implement user roles (admin/editor)
-* Improve UI/UX with Material-UI or Tailwind
-* Add likes/dislikes for posts
-* Add email notifications for comments
-* Deploy to production (Vercel/Render)
+### Home Page
+![Home Page Screenshot](./Assignment_screenshot.png)
 
 ---
 
